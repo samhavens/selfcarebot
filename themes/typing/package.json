@@ -1,0 +1,11 @@
+{
+  "name": "hexo-theme-typing",
+  "version": "1.0.1",
+  "private": true,
+  "devDependencies": {
+    "cssnano": "^3.7.3",
+    "postcss-cli": "^2.5.2",
+    "postcss-import": "^8.1.2",
+    "precss": "^1.4.0"
+  }
+}

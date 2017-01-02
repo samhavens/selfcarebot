@@ -1,0 +1,38 @@
+# Lang
+language: en
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+rss: /atom.xml
+
+# Content
+fancybox: true
+
+
+# Miscellaneous
+google_analytics: UA-89711636-1
+favicon: /favicon.ico
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+
+# Profile
+author: Sam Havens
+nickname: Self Care Bot
+description: Self Care Bot is here to remind you to take care of yourself. No app to download, no page to bookmark. Just start chatting.
+links:
+# Blog: /
+# GitHub: https://github.com/
+# Instagram: http://instagram.com/
+  Facebook: https://www.facebook.com/selfcarebot/
+# Twitter : http://twitter.com/
+
+
+# Info
+archive_footer_content: This is an archived post
+post_footer_content: Take care of yourself
